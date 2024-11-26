@@ -8,7 +8,7 @@ const SkillS = () => {
       <div>
         <h2 className='text-4xl md:text-5xl'>Technologies I work with</h2>
         <p className='text-gray-500 pt-2'>
-          I have a strong foundation in Web Development. I am proficient in creating custom websites tailored to unique client requirements. I'm well-versed in multiple languages, such as HTML, CSS, Typescript & Jawascript, enabling me to code innovative features & customizations, making each project distinct.
+          I have a strong foundation in Web Development. I am proficient in creating custom websites tailored to unique client requirements. I am well-versed in multiple languages, such as HTML, CSS, Typescript & Jawascript, enabling me to code innovative features & customizations, making each project distinct.
         </p>
         <div>
         <div className='grid grid-cols-2 text-blue-600 text-3xl sm:text-4xl'>

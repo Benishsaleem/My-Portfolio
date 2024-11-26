@@ -3,7 +3,7 @@ import Navebar from './Navebar'
 
 const Hero = () => {
   return (
-    <div id="hero" className='min-h-screen bg-no-repeat bg-[url(/banner.jpg)]'
+    <div id='hero' className='min-h-screen bg-no-repeat bg-[url(/banner.jpg)]'
     style={{backgroundSize:'30%' , backgroundPosition:'left 150px top 150px'}}>
 
       <Navebar/>
@@ -14,7 +14,7 @@ const Hero = () => {
             <p>Hi,</p>
             <p>I am</p>  
             <p>Benish Saleem</p>
-            <p>"Web Developer"</p>
+            <p>Web Developer</p>
          </div>
         </div>
       </div>
