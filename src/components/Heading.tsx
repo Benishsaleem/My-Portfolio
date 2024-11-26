@@ -1,4 +1,4 @@
-import { strict } from 'assert'
+
 import React from 'react'
 
 interface propsType {

@@ -10,11 +10,11 @@ const Hero = () => {
       <div className='container grid lg:grid-cols-2 h-[calc(100vh-60px'>
         <div className='hidden lg:block'></div>
         <div className='text-[45px] sm:text-[60px] font-serif leading-tight pt-32 '>
-          <div className='text-gray-400'>
-            <p  data-aos="zoom-in-down">Hi,</p>
-            <p  data-aos="zoom-in-down">I am</p>  
-            <p  data-aos="zoom-in-down">Benish Saleem</p>
-            <p data-aos="zoom-in-down">"Web Developer"</p>
+          <div className='text-gray-400' data-aos="zoom-in-down">
+            <p>Hi,</p>
+            <p>I am</p>  
+            <p>Benish Saleem</p>
+            <p>"Web Developer"</p>
          </div>
         </div>
       </div>

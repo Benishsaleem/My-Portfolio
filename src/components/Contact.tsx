@@ -4,10 +4,12 @@ import { BsTelephoneInbound } from "react-icons/bs";
 
 
 
+
 const Contact = () => {
   return (
     <div id='contact' className='container pt-32'>
       <div className='grid md:grid-cols-2 gap-10'>
+        
         <div className='space-y-8'>
             <h2 className='text-5xl'  data-aos="zoom-in-down">Get in touch</h2>
             <p className='text-gray-500 text-[18px] pt-2'  data-aos="zoom-in-down"> 
