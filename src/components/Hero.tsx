@@ -4,7 +4,7 @@ import Navebar from './Navebar'
 const Hero = () => {
   return (
     <div id="hero" className='min-h-screen bg-no-repeat bg-[url(/banner.jpg)]'
-    style={{backgroundSize:"30%" , backgroundPosition:"left 150px top 150px"}}>
+    style={{backgroundSize:'30%' , backgroundPosition:'left 150px top 150px'}}>
 
       <Navebar/>
       <div className='container grid lg:grid-cols-2 h-[calc(100vh-60px'>
